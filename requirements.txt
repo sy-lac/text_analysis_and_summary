@@ -1,0 +1,9 @@
+nltk
+textblob
+textblob-fr
+sentencepiece
+transformers
+spacy
+torch
+scikit-learn
+streamlit
